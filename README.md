@@ -1,0 +1,1 @@
+This is the code of a project for LLSMS2225 Derivatives pricing followed in 2022-2023 at UCL, given by Prof Frederic Vrins
